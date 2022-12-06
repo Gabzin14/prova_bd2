@@ -2,4 +2,4 @@
 resolução atividade:
 
 ## Códigos das tabelas criadas:
-![Captura de Tela (1)](https://user-images.githubusercontent.com/114401117/205895207-d675f02f-a1c8-4b69-ac74-bd4cfe771d32.png)
+![Captura de Tela (1)](https://user-images.githubusercontent.com/114401117/205895576-1426b4ea-a1ce-4127-9c8d-464c1304b946.png)
