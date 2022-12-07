@@ -26,6 +26,41 @@ create table TB_Matricula (
 	cod_aluno int references TB_aluno (cod_aluno)
 );
 ````
+
+# Códigos de inserção dos dados nas tabelas:
+## INSERT TB_ALUNO:
+````sql
+insert into tb_aluno (cod_aluno, nome_aluno, ano_nasc, e_mail, sexo)
+values (1, 'Josiel Jardim', 1974, 'josiel@provaSQL.com.br', 'M');
+insert into tb_aluno (cod_aluno,nome_aluno,ano_nasc,e_mail,sexo)
+values(2, 'Ana Maria', 1980, 'ana@provaSQL.com.br', 'F');
+insert into tb_aluno (cod_aluno, nome_aluno, ano_nasc, e_mail, sexo)
+values(3, 'João Pedro', 1979, 'joao@provaSQL.com.br', 'M');
+````
+## INSERT TB_CURSO:
+````sql
+insert into tb_curso (cod_curso, nome_curso)
+values(1,'Medicina');
+insert into tb_curso (cod_curso, nome_curso)
+values(2,'Arquitetura');
+insert into tb_curso (cod_curso, nome_curso)
+values(3,'Filosofia');
+insert into tb_curso (cod_curso, nome_curso)
+values(4, 'Informatica');
+insert into tb_curso (cod_curso, nome_curso)
+values(5,'Jornalismo');
+````
+## INSERT TB_MATRICULA:
+````sql
+insert into tb_matricula (cod_curso, cod_aluno)
+values(1,1);
+insert into tb_matricula (cod_curso, cod_aluno)
+values(1,2);
+insert into tb_matricula (cod_curso, cod_aluno)
+values(2,3);
+insert into tb_matricula (cod_curso, cod_aluno)
+values(5,3);
+````
 ## Questões Práticas:
 ## Questão 1:
  Faça um comando SQL para matricular o aluno “Pedro César” no curso de
