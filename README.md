@@ -1,4 +1,4 @@
-<h1 align="center"> Gabriel Alves de Sousa Nº 08 | 2B INFORMÁTICA </h1>
+<h1 align="center"> Gabriel Alves de Sousa Nº 08 | 2º INFORMÁTICA </h1>
 <h1 align="center"> Prof: Adeilson Aragão </h1>
 <h1 align="center">  Prova de Banco de Dados </h1>
 
