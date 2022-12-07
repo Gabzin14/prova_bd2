@@ -41,9 +41,8 @@ Faça um comando SQL que retorne o nome de todas as mulheres.
 ## Questão 8:
 Faça um comando SQL que retorne o nome de todas as mulheres matriculadas
 no curso de Medicina.
+## Resultado esperado
 ![Captura de Tela (14)](https://user-images.githubusercontent.com/114401117/206176115-12f37ebc-f7cc-444d-a484-9f6d03778dca.png)
-
-
 
 ## Questão 9:
  Faça um comando SQL que retorne os nomes dos cursos ordenados por ordem
@@ -51,4 +50,7 @@ alfabética.
 ## Resultado esperado
 ![Captura de Tela (13)](https://user-images.githubusercontent.com/114401117/206175821-9c67d48c-f070-4b73-aecc-afb4db21ca7a.png)
 
-
+## Questão 10:
+ Crie o enunciado de uma consulta SQL que utilize “junção” (com resposta).
+ ## Resultado esperado
+![Captura de Tela (15)](https://user-images.githubusercontent.com/114401117/206177010-8b69d6ee-c408-43de-b6cb-aaadca19ac07.png)
