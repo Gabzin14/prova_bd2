@@ -56,3 +56,16 @@ alfabética.
 ![Captura de Tela (15)](https://user-images.githubusercontent.com/114401117/206177010-8b69d6ee-c408-43de-b6cb-aaadca19ac07.png)
 
 ## Questões teóricas:
+
+## Questão 1:
+### Defina: SQL.
+#### R: SQL significa Standard Query Language, literalmente a linguagem padrão para realizar queries.
+
+
+## Questão 3:
+### Liste as principais características de SQL.
+#### R: SQL é uma linguagem padrão para trabalhar com bancos de dados relacionais. Ela é uma linguagem declarativa e que não necessita de profundos conhecimentos de programação para que alguém possa começar a escrever queries. A linguagem SQL é utilizada de maneira relativamente parecida entre os principais bancos de dados relacionais do mercado: Oracle, MySQL, MariaDB, PostgreSQL, Microsoft SQL Server, entre muitos outros. Cada um tem suas características, sendo o MySQL e o PostgreSQL extremamente populares por possuírem versões gratuitas e de código aberto.
+
+## Questão 4:
+### Descreva a sintaxe do comando SQL: SELECT. Quais cláusulas são obrigatórias e quais são opcionais?
+#### O comando SELECT é utilizado para extrair os dados das tabelas de um banco de dados. Ele pode extrair dados de uma ou mais tabelas ao mesmo tempo, executando desde simples consultas até comandos mais complexos, fazendo buscas, junções, filtros comparativos, ordenações e diversos outros itens.
