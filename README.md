@@ -1,5 +1,31 @@
-# Prova de Banco de Dados
+<h1 align="center">  Prova de Banco de Dados </h1>
 
+##
+# Códigos de criação das tabelas:
+## TB_ALUNO:
+````sql
+create table TB_aluno(
+   cod_aluno int primary key,
+	nome_aluno varchar(50) NOT NULL,
+	ano_nascimento date,
+	e_mail varchar(60),
+	sexo varchar NOT NULL
+);
+````
+## TB_CURSO:
+````sql
+create table TB_Curso (
+   cod_curso int primary key,
+	nome_curso varchar (60) NOT NULL
+);
+````
+## TB_MATRICULA:
+````sql
+create table TB_Matricula (
+   cod_curso int references TB_curso (cod_curso),
+	cod_aluno int references TB_aluno (cod_aluno)
+);
+````
 ## Questões Práticas:
 ## Questão 1:
  Faça um comando SQL para matricular o aluno “Pedro César” no curso de
