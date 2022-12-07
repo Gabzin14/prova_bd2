@@ -1,5 +1,5 @@
 # Prova de Banco de Dados
-## Resolução atividade:
+## Questões Práticas:
 ## Questão 1:
  Faça um comando SQL para matricular o aluno “Pedro César” no curso de
 Informática. Os dados devem ser inseridos na tabela TB_MATRÍCULA
@@ -54,3 +54,5 @@ alfabética.
  Crie o enunciado de uma consulta SQL que utilize “junção” (com resposta).
  ## Resultado esperado
 ![Captura de Tela (15)](https://user-images.githubusercontent.com/114401117/206177010-8b69d6ee-c408-43de-b6cb-aaadca19ac07.png)
+
+## Questões teóricas:
