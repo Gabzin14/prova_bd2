@@ -13,3 +13,4 @@
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/114401117/205946798-c0122b0d-b503-4fcd-9542-76c0bb59ee95.png)
 
 ## Questão 5:
+![Captura de Tela (10)](https://user-images.githubusercontent.com/114401117/206170762-ee7fc6b4-5eec-4691-bf7d-b1bcf6ee5c3f.png)
