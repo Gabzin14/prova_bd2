@@ -86,11 +86,6 @@ Desenvolva um comando SQL que mostre o total de alunos.
 ## Resultado esperado
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/114401117/205946798-c0122b0d-b503-4fcd-9542-76c0bb59ee95.png)
 
-## Questão 5:
-Escreva um comando SQL para listar o total de alunos matriculador em cada curso.
-## Resultado esperado
-![Captura de Tela (10)](https://user-images.githubusercontent.com/114401117/206170762-ee7fc6b4-5eec-4691-bf7d-b1bcf6ee5c3f.png)
-
 ## Questão 6:
  Desenvolva um comando SQL que retorne o nome de todos os alunos maiores que
 18 anos.
